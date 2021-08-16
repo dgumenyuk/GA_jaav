@@ -7,3 +7,5 @@ The bag is represented as a list of items with the specified value and size e.g.
 We encode a solution a list of boolean values. ```True``` value signifies that a particular item is included in the bag, while ```False``` that it is not.
 
 As the ```fitness function``` we calculate the total value of the elements in the bag. If the total bag size exceeds the limit, we set its value to 0.
+The pseudocode of the implmented algorithm is presented below:
+<img src= "./img/pseudocode.png" width="350" height="300"> 
