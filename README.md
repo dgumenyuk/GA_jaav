@@ -8,4 +8,5 @@ We encode a solution a list of boolean values. ```True``` value signifies that a
 
 As the ```fitness function``` we calculate the total value of the elements in the bag. If the total bag size exceeds the limit, we set its value to 0.
 The pseudocode of the implmented algorithm is presented below:
-<img src= "./img/pseudocode.png" width="350" height="300"> 
+
+<img src= "./img/pseudocode.png" > 
